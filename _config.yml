@@ -2,32 +2,35 @@
 baseurl: "/portfolio-kami" # the subpath of your site, e.g. /blog/
 url: "http://www.domain.com" # the base hostname & protocol for your site
 
+# install plugin
+gems: [jekyll-paginate]
+
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Tyrion Lannister # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: Junko Werner
+  description: "A personal portfolio including the projects Junko learned from online-bootcamp: Bloc." # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Junko's First Ruby On Rail Portfolio</h1>
+     <p>I am novice in Rails but comitted to keep learning Rails as long as Rails itself get revolutionized continously.</p>
   header_text_feature_image: 
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "junkowerner@gmail.com"
   behance:
   bitbucket:
   dribbble: 
   facebook: 
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "junkodesu"
   google_plus:
   instagram: 
-  linkedin:  # Full URL
+  linkedin:  "https://www.linkedin.com/profile/view?id=AAMAAAeRjbcBKr4-t57-uv9kgDTf7J17BB-CL8U&trk=hp-identity-name"
   pinterest:
   reddit:
   soundcloud:
@@ -56,7 +59,7 @@ theme:
   google_fonts: "Lato:300,400,700,300italic,700italic|Abril+Fatface"
 
 # PAGINATION
-paginate: 100
+paginate: 5
 paginate_path: "blog/page:num"
 
 # COLLECTIONS
@@ -72,3 +75,4 @@ highlighter: pygments
 sass:
   sass_dir: _sass
   style: :compressed
+
