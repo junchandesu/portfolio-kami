@@ -8,7 +8,7 @@ Please feel free to contact Junko for your next website needs via junkowerner@gm
 
 <form action="https://getsimpleform.com/messages?form_api_token=77c0b931667ad27ed5797c9176602b14" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='https://junkodesu.github.io/junko-portfolio/thank-you/' />
+  <input type='hidden' name='redirect_to' value='https://junkodesu.github.io/portfolio-kami/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
