@@ -15,7 +15,7 @@ Bloccit is a Reddit replica to practice Rails development as my very first Rail 
 
 
 ## Problem
-This is the first Rails project I build with my mentor at [Bloc. link](https://www.bloc.io/)
+This is the first Rails project I build with my mentor at [Bloc.](https://www.bloc.io/)
 Everything was new to me from learning git, heroku, MVC concept framework, installing different Ruby programs and library gems, studying javascript, css, jQuery, and implementing Rspec test programs. 
 
 
@@ -25,7 +25,14 @@ I have struggled every concept I have encountered even simply by following the B
 
 ## Results
 
-Althought Bloccit is my first project I created, I have learned so much and understood how Ruby on Rails ease web developers to achieve to put many complicated programing together to work on one single website neatly as long as the Rail convention is implemented correctly.
+Althought Bloccit is my first project I created, I have learned so much and understood how Ruby on Rails ease web developers to achieve to put many complicated coding/algorithm below.
+
+* github repository
+* heroku account to push an app on production environment
+* the change of navbar based on the user log-in status
+* Bootstrap, Pundit, Seed, faker, Devise, carrier, Rspec, Factorygirl gems
+* Action Mailer, Ajax
+five models with association
 
 
 ## Conclusion
