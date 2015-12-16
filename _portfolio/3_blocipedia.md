@@ -11,7 +11,19 @@ short-description: Blocipedia allows users to create their own wikis and share o
 
 ## Explanation
 
-[Blocipedia](https://junko-bloc-blocpedia.herokuapp.com/) is a great way to collaborate on community-sourced content. Whether the wiki is for a hobby or work-related project, you will build an app that lets users create their own wikis and share them publicly or privately with own collaborators. 
+[Blocipedia](https://junko-bloc-blocpedia.herokuapp.com/) is a great way to collaborate on community-sourced content. Whether the wiki is for a hobby or work-related project, you will build an app that lets users create their own wikis and share them publicly or privately with own collaborators. Here is [Github](https://github.com/junkodesu/Bloc_Blocipedia "Follow on GitHub")
+
+## User Stories
+
+1.  sign up for a free account by providing a user name, password and email
+2.  sign in and out of Blocipedia
+3.  with a standard account, I want to create, read, update, and delete public wikis
+4.  offer three user roles: admin, standard, or premium
+5.  seed the development database automatically with users and wikis
+6.  upgrade my account from a free to a paid plan
+7.  As a premium user, create private wikis
+8.  edit wikis using Markdown syntax
+9.  As a premium user, add and remove collaborators for my private wikis
 
 ## Problem
 

@@ -6,12 +6,13 @@ short-description: Bloccit is a Reddit replica.
 
 
 ---
-
 {:.center}
 ![]({{ site.baseurl }}/img/bloccit.jpg)
 
+
 ## Explanation
-Bloccit is a Reddit replica to practice Rails development as my very first Rail application.
+[Bloccit](https://junko-bloc-bloccit.herokuapp.com/) is a Reddit replica to practice Rails development as my very first Rail application. Here is [Github](https://github.com/junkodesu/Bloc_Bloccit_with_gems "Follow on GitHub")
+
 
 
 ## Problem

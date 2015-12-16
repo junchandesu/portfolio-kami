@@ -10,7 +10,7 @@ short-description: Groomer is the online reservation application. Junko's very f
 
 ## Explanation
 
-Groomer not only introduces Fuji Pet Salon but also includes the reservation system for the customer online at [http://otakudaisuki.com](http://otakudaisuki.com). Junko's very first application of her own choice.
+[Groomer](https://fuji-pet-salon.herokuapp.com/) not only introduces Fuji Pet Salon but also includes the reservation system for the customer online at [http://otakudaisuki.com](http://otakudaisuki.com). Junko's very first application of her own choice. Here is [Github](https://github.com/junkodesu/groomer "Follow on GitHub")
 
 
 ## Problem

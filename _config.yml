@@ -13,8 +13,7 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>Promise <a href="https://www.mindtools.com/pages/article/newSTR_97.htm">Kaizen(改善)</a>-Japanese for "Improvement"</h1>
-     <p>I am novice in Rails but comitted to keep learning Rails as long as Rails itself get revolutionized continously.</p>
+     <h2>Promise <a href="https://www.mindtools.com/pages/article/newSTR_97.htm" style="color: #C390D4">Kaizen(改善)</a><h2><h3>Japanese for "Improvement"</h3> <p>I am a junior Rails full stack web developer,comitted to keep learning Rails as long as Rails itself get revolutionized continously.</p>
   header_text_feature_image: 
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
