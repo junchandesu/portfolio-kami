@@ -4,7 +4,9 @@ title: Contact
 permalink: /contact/
 feature-img: "img/color.png"
 ---
-Please feel free to contact Junko for your next website needs via junkowerner@gmail or submit the message below!
+<p>Please feel free to contact Junko for your next website needs via junkowerner@gmail or submit the message below!</p>
+<p>Any challenges are always welcome!</p>
+
 
 <form action="https://getsimpleform.com/messages?form_api_token=77c0b931667ad27ed5797c9176602b14" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->

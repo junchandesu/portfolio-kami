@@ -2,7 +2,7 @@
 layout: post
 title: Groomer 
 thumbnail-path: "img/groomer.jpg"
-short-description: Groomer is the online reservation application. Junko's very first free project.
+short-description: Groomer is the online reservation application. Junko's very first own project.
 ---
 
 {:.center}

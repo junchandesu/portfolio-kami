@@ -13,7 +13,7 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>Junko's First Ruby On Rail Portfolio</h1>
+     <h1>Promise <a href="https://www.mindtools.com/pages/article/newSTR_97.htm">Kaizen(改善)</a>-Japanese for "Improvement"</h1>
      <p>I am novice in Rails but comitted to keep learning Rails as long as Rails itself get revolutionized continously.</p>
   header_text_feature_image: 
   footer_text: >
